@@ -53,7 +53,8 @@ const correctAnswers = 0;
 const quizOver = false;
 
 $(document).ready(function(){
-
+    displayCurrentQuestion();
+    $(this).find(".quizMessage").hide();
 
 
 
