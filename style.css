@@ -37,3 +37,18 @@ h1 {
     padding-top: 5px;
     position: relative;
   }
+
+  .nextButton {
+    text-align: center;
+    background-color: #374a6b;
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+  
+    color: #cfd3da;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    position: relative;
+    margin: auto;
+    padding-top: 20px;
+  }
