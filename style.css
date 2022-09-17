@@ -26,3 +26,13 @@ h1 {
   p {
     font-family: "Raleway", sans-serif;
   }
+
+  .quizContainer {
+    background-color: #748198;
+    border-radius: 8px;
+    width: 75%;
+    margin: auto;
+    margin-top: 190px;
+    padding-top: 5px;
+    position: relative;
+  }
