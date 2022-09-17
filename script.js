@@ -51,3 +51,11 @@ const questions = [
 const currentQuestion = 0;
 const correctAnswers = 0;
 const quizOver = false;
+
+$(document).ready(function(){
+
+
+
+
+
+});
