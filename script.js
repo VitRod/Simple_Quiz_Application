@@ -120,5 +120,5 @@ var questions = [
            function hideScore(){
             $(document).find(".result").hide();
            }
-           
-                
+               
+                              
