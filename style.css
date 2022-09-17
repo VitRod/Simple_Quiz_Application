@@ -22,3 +22,7 @@ h1 {
     width: 20px;
     height: 2em;
   }
+
+  p {
+    font-family: "Raleway", sans-serif;
+  }
