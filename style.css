@@ -52,3 +52,15 @@ h1 {
     margin: auto;
     padding-top: 20px;
   }
+
+  .question {
+    font-family: "Raleway", sans-serif;
+    font-size: 2em;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border-radius: 6px;
+    background-color: #cfd3da;
+    text-align: center;
+    color: #374a6b;
+  }
