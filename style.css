@@ -10,3 +10,19 @@ h1 {
   ul {
     list-style: none;
   }
+
+  li {
+    font-family: "Raleway", sans-serif;
+    font-size: 2em;
+    color: #374a6b;
+  }
+
+  input[type="radio"] {
+    border: 0px;
+    width: 20px;
+    height: 2em;
+  }
+
+  p {
+    font-family: "Raleway", sans-serif;
+  }
