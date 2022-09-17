@@ -1,4 +1,4 @@
-var questions = [
+const questions = [
     {
         question: "Which one of the following is a java keyword?",
         choices: ["switch", "while", "public", "void", "all of the above"],
@@ -47,3 +47,7 @@ var questions = [
     },
 
 ];
+
+const currentQuestion = 0;
+const correctAnswers = 0;
+const quizOver = false;
