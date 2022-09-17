@@ -6,3 +6,7 @@ h1 {
     color: #cfd3da;
     font-size: 35px;
   }
+
+  ul {
+    list-style: none;
+  }
