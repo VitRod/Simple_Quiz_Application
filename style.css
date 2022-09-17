@@ -75,3 +75,20 @@ h1 {
     text-align: center;
     color: #374a6b;
   }
+
+  .choiceList {
+    font-family: "Raleway", sans-serif;
+    color: crimson;
+  }
+  
+  .result {
+    font-family: "Raleway", sans-serif;
+    width: 30%;
+    height: auto;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 6px;
+    background-color: #cfd3da;
+    text-align: center;
+  }
+  
