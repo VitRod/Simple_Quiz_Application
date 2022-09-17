@@ -64,3 +64,14 @@ h1 {
     text-align: center;
     color: #374a6b;
   }
+
+  .quizMessage {
+    font-family: "Raleway", sans-serif;
+    width: 30%;
+    margin: auto;
+    padding: 2px;
+    border-radius: 6px;
+    background-color: #cfd3da;
+    text-align: center;
+    color: #374a6b;
+  }
