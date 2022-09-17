@@ -28,6 +28,7 @@ h1 {
   }
 
   .quizContainer {
+    background-image: url("rainbow.png");
     background-color: #748198;
     border-radius: 8px;
     width: 75%;
